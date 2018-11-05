@@ -7,46 +7,46 @@ $(document).ready(function () {
             photo: "assets/images/220px-Forrest_Gump_poster.jpg"
          },
          {
-            question: "What popular soda beverage was originally developed as a mixer for whiskey?", 
-            choice: ["Mountain Dew", "Sprite", "7-UP", "Coke"],
+            question: "What year was the song “My Heart Will Go On” from Titanic released?", 
+            choice: ["1997", "1999", "1992", "1995"],
             answer: 0,
-            photo: "assets/images/mtdew.gif"
+            photo: "assets/images/titanic.jpg"
          }, 
          {
-            question: "Kopi luwak is a very expensive type of what?", 
-            choice: ["Spice", "Caviar", "Coffee", "Rice variety" ],
+            question: "What year was The Lion King released?", 
+            choice: ["1993", "1990", "1994", "1991" ],
             answer: 2,
-            photo: "assets/images/coffee.gif"
+            photo: "assets/images/Lion_King.jpg"
         }, 
         {
-            question: "Which is not an ingredient in a Harvey Wallbanger cocktail?", 
-            choice: ["Orange Juice", "Vodka", "Sour Mix", "Galliano" ],
+            question: "What 90’s movie was the first and only animated film to receive a Special Achievement Academy Award?", 
+            choice: ["Tarzan", "Lion King", "Toy Story", "Alladin" ],
             answer: 2,
-            photo: "assets/images/harvey.jpg"
+            photo: "assets/images/toy_story.jpg"
         }, 
         {
-            question: "How many items are there in a Bakers' Dozen?", 
-            choice: ["12", "6", "24", "13" ],
+            question: "Which 90’s animated film was Disney’s first ever DVD?", 
+            choice: ["Tarzan", "Lion King", "Alladin", "Mulan" ],
             answer: 3,
-            photo: "assets/images/dozen.jpg"
+            photo: "assets/images/mulan.jpg"
         }, 
         {
-            question: "What is the most widely eaten fish in the world?", 
-            choice: ["Tilapia", "Herring", "Sardine", "Tuna" ],
+            question: "What was the name of the second Indiana Jones movie, released in 1984?", 
+            choice: ["Raiders of the Lost Ark", "Indiana Jones and the Temple of Doom.", "Indiana Jones and the Last Crusade", "Indiana Jones and the Kingdom of the Crystal Skull" ],
             answer: 1,
-            photo: "assets/images/herring.jpg"
+            photo: "assets/images/ij_tod.jpg"
         }, 
         {
-            question: "Which fruit does not ripen once it has been picked?", 
-            choice: ["Banana", "Lemon", "Mango", "Apple" ],
+            question: "In which year were the Academy Awards or Oscars first presented?", 
+            choice: ["1957", "1929", "1890", "1919" ],
             answer: 1,
-            photo: "assets/images/lemon.gif"
+            photo: "assets/images/oscars.jpg"
         }, 
         {
-            question: "Which fruit contains the most protein per 100 calories?", 
-            choice: ["Guava", "Avocado", "Banana", "Blackberries" ],
+            question: "Which classic thriller movie stars Roy Scheider as the police chief Martin Brody?", 
+            choice: ["Jaws", "Marathon Man", "Blue Thunder", "Sorcerer" ],
             answer: 0,
-            photo: "assets/images/guava.gif"
+            photo: "assets/images/jaws.jpg"
         }];
     
     var correctCount = 0;
