@@ -17,7 +17,7 @@ img {
 
 .ansSect {
   text-align: center;
-
+  cursor: pointer;
 }
 
 .questSect {
